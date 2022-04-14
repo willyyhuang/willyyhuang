@@ -1,4 +1,4 @@
-👋 Hi, I’m Wilson @willyyhuang Part time React Front end Developer
+👋 Hi, I’m Wilson @willyyhuang, a Software Engineer specialized in front-end development based in Montreal, Quebec, Canada.
 
 Visit my personal website to learn more about me:
 https://www.pewf.dev/

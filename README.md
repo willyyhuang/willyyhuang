@@ -1,4 +1,4 @@
-👋 Hi, I’m Wilson @willyyhuang, a Software Engineer specialized in front-end development based in Montreal, Quebec, Canada.
+👋 Hi, I’m Wilson @willyyhuang, a Software Engineer specialized in front-end development based in Canada.
 
 # 💫 About Me:
 Visit my personal website to learn more about me:
